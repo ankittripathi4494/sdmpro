@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598230944848",
+    "project_id": "sdmproapp",
+    "storage_bucket": "sdmproapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598230944848:android:055ce06959a45b8aee1555",
+        "android_client_info": {
+          "package_name": "com.sdmpro.sdmproapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMukDC3zfEFEyBYrU7KebJvGwaDZNBXZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
